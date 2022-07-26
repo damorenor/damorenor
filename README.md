@@ -3,7 +3,7 @@
 Daniel Moreno is a Computer and Systems Engineer from the Universidad Nacional de Colombia, who has plenty of experience and skill in all sorts of programming and computational solutions. His talent is primarily based in a creative mind, a passion for programming and a friendly communication. 
 
 #### 📬 Get in touch
-- LinkedIn: [https://www.linkedin.com/in/daniel-arturo-moreno-rincón-5765341a8/](https://www.linkedin.com/in/daniel-arturo-moreno-rincón-5765341a8/)
+- LinkedIn: [https://www.linkedin.com/in/damorenori/](https://www.linkedin.com/in/damorenori/)
 - Email: [damorenor@unal.edu.co](damorenor@unal.edu.co)
 
 #### Languages and Technologies
